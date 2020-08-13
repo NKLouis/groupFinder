@@ -39,7 +39,6 @@ As a user on Friend Finder, I would like to:
   - Bootstrap
   - Dotenv
   - React​
-  - Javascript
   ```
 
 
